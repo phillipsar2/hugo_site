@@ -1,13 +1,13 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = "https://phillipsar2.github.io/"
 title = "Alyssa Phillips"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
+publishDir = "phillipsar2.github.io"
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
